@@ -1,0 +1,487 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.json",
+    "expandedProjectPaths": [
+        "tileset",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1235,
+                "y": 642
+            }
+        },
+        "map.json": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3399,
+                "y": 512
+            }
+        },
+        "map1.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 3693,
+                "y": 724
+            }
+        },
+        "modular-tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/1.tmx": {
+            "scale": 0.5378676470588235,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960.2734107997267,
+                "y": 544.7436773752563
+            }
+        },
+        "tileset/14.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tileset/Jungle.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "tileset/Sand Tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tileset/Sand Tiles1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "tileset/Sand Tiles2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/Sand Tiles3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/back1.tsx": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "tileset/back10.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tileset/back11.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "tileset/back12.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.33
+        },
+        "tileset/back14.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.25
+        },
+        "tileset/back2.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "tileset/back3.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.125
+        },
+        "tileset/back4.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.25
+        },
+        "tileset/back5.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.25
+        },
+        "tileset/back6.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tileset/back8.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "tileset/back_egypt.tsx": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 0.06
+        },
+        "tileset/basic.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/bat.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/bat1.tsx": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "tileset/castle1.tsx": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "tileset/castle10.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/castle11.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tileset/castle12.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tileset/castle13.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "tileset/castle2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/castle3.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tileset/castle4.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tileset/castle5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/castle6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/castle7.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tileset/castle8.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tileset/castle9.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tileset/cave+pirate.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tileset/ded.tsx": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "tileset/ded1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "tileset/ded2.tsx": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "tileset/ded3.tsx": {
+            "scaleInDock": 0.12,
+            "scaleInEditor": 1
+        },
+        "tileset/egypt sand.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/egypt sky.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/egypt.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1.5
+        },
+        "tileset/gold.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/jungle maya back.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "tileset/jungle tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "tileset/jungle.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tileset/jungle1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.33
+        },
+        "tileset/jungle2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5
+        },
+        "tileset/mask1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "tileset/mask33.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/mask333.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "tileset/maya!!!-export.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/maya!!!.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/modular-tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/old-dark-castle-interior-tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tileset/phase-2.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tileset/pirate icons.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "tileset/pirate.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tileset/red.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "tileset/red1.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "tileset/red2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/sand.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 8
+        },
+        "tileset/sand1.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 4
+        },
+        "tileset/sheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tileset/sky.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/tile.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/tileset jungle1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/tileset/14.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/bat.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/bat1.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle1.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle10.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle11.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle12.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle13.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle2.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle3.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle4.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle5.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle6.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle7.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle8.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/castle9.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/cave+pirate.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/ded.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/ded1.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/ded2.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/ded3.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/egypt.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/jungle1.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/pirate icons.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/tree1.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/tree3.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/tree4.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/war.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tileset/war2.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/tree.tsx": {
+            "scaleInDock": 0.25
+        },
+        "tileset/tree1.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5
+        },
+        "tileset/tree2.tsx": {
+            "scaleInDock": 0.25
+        },
+        "tileset/tree3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tileset/tree4.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "tileset/tree5.tsx": {
+            "scaleInDock": 0.33
+        },
+        "tileset/tree6.tsx": {
+            "scaleInDock": 0.33
+        },
+        "tileset/tree7.tsx": {
+            "scaleInDock": 0.5
+        },
+        "tileset/tree8.tsx": {
+            "scaleInDock": 0.25
+        },
+        "tileset/tree9.tsx": {
+            "scaleInDock": 0.25
+        },
+        "tileset/war.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/war1.tsx": {
+            "scaleInDock": 1
+        },
+        "tileset/war2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tree1.tsx": {
+            "scaleInDock": 0.5
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Дима/Desktop/иконки/jungle",
+    "last.imagePath": "C:/Users/Дима/Desktop/icons",
+    "map.height": 34,
+    "map.lastUsedFormat": "json",
+    "map.width": 60,
+    "openFiles": [
+        "map.json",
+        "map1.json"
+    ],
+    "project": "game.tiled-project",
+    "recentFiles": [
+        "tileset/1.tmx",
+        "map1.json",
+        "map.json",
+        "tileset/maya!!!-export.tsx",
+        "tileset/maya!!!.tsx",
+        "tileset/pirate icons.tsx",
+        "tileset/phase-2.tsx",
+        "tileset/tree4.tsx",
+        "tileset/tree3.tsx",
+        "tileset/14.tsx",
+        "tileset/castle13.tsx",
+        "tileset/jungle tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
